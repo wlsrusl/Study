@@ -42,3 +42,5 @@ subject.timeout(.seconds(3), other: Observable.just(0), scheduler: MainScheduler
 Observable<Int>.timer(.seconds(1), period: .seconds(4), scheduler: MainScheduler.instance)
     .subscribe(onNext: { subject.onNext($0) })
     .disposed(by: bag)
+
+/// timeout
