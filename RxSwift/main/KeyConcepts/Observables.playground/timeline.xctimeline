@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/user/Documents/dev/study/RxSwift/Mastering-RxSwift-master/RxSwift-5/main/KeyConcepts/Observables.playground#CharacterRangeLen=172&amp;CharacterRangeLoc=1236&amp;EndingColumnNumber=0&amp;EndingLineNumber=40&amp;StartingColumnNumber=1&amp;StartingLineNumber=31&amp;Timestamp=671369320.292604"
+         lockedSize = "{492, 128}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/user/Documents/dev/study/RxSwift/Mastering-RxSwift-master/RxSwift-5/main/KeyConcepts/Observables.playground#CharacterRangeLen=23&amp;CharacterRangeLoc=1417&amp;EndingColumnNumber=0&amp;EndingLineNumber=44&amp;StartingColumnNumber=1&amp;StartingLineNumber=43&amp;Timestamp=671369320.292779"
+         lockedSize = "{269, 128}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>
