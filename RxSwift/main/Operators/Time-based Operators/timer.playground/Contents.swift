@@ -41,3 +41,5 @@ let o = Observable<Int>.timer(.seconds(1), period: .milliseconds(500), scheduler
 //DispatchQueue.main.asyncAfter(deadline: .now() + 5) {
 //    o.dispose()
 //}
+
+// timer.
